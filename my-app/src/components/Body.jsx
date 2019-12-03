@@ -11,7 +11,7 @@ const Body = () => {
 
     return (
         <div>
-            <h1>Hello World</h1>
+            <h1>World of the Butterflies</h1>
             <div className="row py-3">
 
                 <div style={style} className="col-lg-3 col-sm-6 py-3">
